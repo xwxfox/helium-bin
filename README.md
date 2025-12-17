@@ -2,6 +2,10 @@
 
 yummy helium on the yummier AUR :3
 
+## where pkg ??
+https://aur.archlinux.org/packages/helium-bin
+
+
 ## License
 
 Same as Helium: GPL-3.0
