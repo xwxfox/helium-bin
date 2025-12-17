@@ -2,6 +2,12 @@
 
 yummy helium on the yummier AUR :3
 
+## gimme
+
+```shell
+yay -S helium-bin
+```
+
 ## where pkg ??
 https://aur.archlinux.org/packages/helium-bin
 
